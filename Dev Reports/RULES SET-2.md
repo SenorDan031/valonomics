@@ -42,7 +42,7 @@ Author: [NAME](https://github.com/username)
 
 ## Multiple Developer Entry Format
 
-```
+```md
 
    Author: [NAME](https://github.com/username)
 
