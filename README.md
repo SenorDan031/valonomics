@@ -35,4 +35,20 @@ Python reflects approved and validated features.
 
 ## Planned Premium Features
 
-- Agent-spe
+- Agent-specific guides
+- Map guides
+- Aim trainer
+- Monthly performance reports
+
+---
+
+## Future Direction
+
+- Expanded analytics
+- Improved visual dashboards (Python)
+- Premium feature integration
+- Long-term: developer-focused extensibility (Platina concept)
+
+---
+
+## Project Structure (simplified)
