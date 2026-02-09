@@ -51,4 +51,4 @@ Python reflects approved and validated features.
 
 ---
 
-## Project Structure (simplified)
+
